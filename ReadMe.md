@@ -29,7 +29,18 @@ As well as also building my skills such as:
 
 <a name="usage"></a>
 ## 3. How to use the project/application
-TODO : Write Usage
+When we enter the website it asks if we need a tutorial and if we click yes then it gives us a walkthrough
+
+![intro](https://github.com/Chirag1969/FOCUSPOD/assets/72310140/9da1c6b7-6e4b-4955-9aba-9ac4226ef8ec)
+This is how the website looks once you are done with the walkthrough
+
+![main](https://github.com/Chirag1969/FOCUSPOD/assets/72310140/aff112f2-b8aa-41c4-a84f-2ee55ffc0692)
+This is how the website looks after we expand all the options.
+We can click on the button at the bottom right and add items to the todo list.
+We can change backgrounds, background sounds, add times and reset the timer.
+
+![functionality](https://github.com/Chirag1969/FOCUSPOD/assets/72310140/cdd0dc90-4d9e-4f19-a216-78de8759a905)
+
 
 <a name="bugs"></a>
 ## 4. Known Bugs
